@@ -1,0 +1,23 @@
+@media screen and (max-width:1005px){
+    .navbar{
+        position: relative;
+    }
+    .logo{
+        margin: 0;
+        text-align: center;
+    }
+    .menu{
+        display: none;}
+
+.header{
+    padding-top: 50px;
+
+}
+.headline{
+    flex: 100%;
+    margin: 5%;
+    text-align: center;
+}
+
+
+}
