@@ -26,7 +26,7 @@ body{
 
 .logo h1{    
     color: #2a1a89;
-    margin-left: 100px;
+    margin-right: 50px;
     font-size: 34px ;
     font-family:"Lobster", sans-serif ;
 }
@@ -70,9 +70,18 @@ padding: 20px;
   justify-content: center;
   align-items: center;
     background: rgb(144, 143, 143);
-    padding-top: 50px;
-    height: 1200px;
+    padding-top: 150px;
+    height: auto;
     
+}
+#hm{
+    text-decoration: none;
+    margin-left: 10px;
+    padding: 10px;
+    box-shadow: 5px 8px 15px rgb(18, 2, 100);
+    background: rgb(64, 48, 241);
+    color: white;
+    border-radius: 10px;
 }
 
 
@@ -105,15 +114,26 @@ padding: 20px;
     
  }
 
+
+
  .ensino{
-    margin-left: 10%;
-    margin-right: 50%;
-    font-size: 20px;
+    display: flex;
+    margin-top: 30px;
+    display: inline-block;
+
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+    text-align: left;
+    overflow-wrap: break-word;
  }
  .ensino h3{
-    color: #180F4A;
+    color: #183898;
  }
  
  .ensino ul{
-    margin-left: 5%;
+    
+    color: rgb(7, 7, 7);
+   
+    
  }
