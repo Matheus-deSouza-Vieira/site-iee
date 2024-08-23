@@ -76,8 +76,9 @@ padding: 20px;
 }
 #hm{
     text-decoration: none;
-    margin-left: 10px;
+    margin-left: 5px;
     padding: 10px;
+    font-size: 15;
     box-shadow: 5px 8px 15px rgb(18, 2, 100);
     background: rgb(64, 48, 241);
     color: white;
@@ -128,7 +129,8 @@ padding: 20px;
     overflow-wrap: break-word;
  }
  .ensino h3{
-    color: #183898;
+    color: #011271;
+    font-family:fantasy;
  }
  
  .ensino ul{
