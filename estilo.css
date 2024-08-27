@@ -203,3 +203,25 @@ padding: 20px;
    
     
  }
+ .depart a{
+    text-decoration: none;
+    padding: 9px;
+    background: #0b26d6;
+    color: white;
+    margin-right: 100px;
+    margin-left: 100px;
+ }
+ .depart h3{
+    color: #0f0f0f;
+ }
+
+ .depart{
+    
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: black;
+ }
+ .depart h2{
+    color: #0b26d6;
+ }
