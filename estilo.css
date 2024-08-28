@@ -8,6 +8,7 @@
 
 body{
     background-color: white;
+    ;
 }
 
 .navbar{
@@ -204,12 +205,13 @@ padding: 20px;
     
  }
  .depart a{
+    
     text-decoration: none;
     padding: 9px;
     background: #0b26d6;
     color: white;
-    margin-right: 100px;
     margin-left: 100px;
+    
  }
  .depart h3{
     color: #0f0f0f;
