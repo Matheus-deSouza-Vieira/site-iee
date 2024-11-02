@@ -179,19 +179,21 @@ padding: 20px;
 
  .informaçoes{
     text-align: justify;
-    margin-left: 30px;
+    margin-left: 3px;
     margin-right: 30px;
     color: black;
     margin-left: 1px;
 
+
  }
- .informaçoes a{
-    
+
+ #inf{
+    background: red;
+    color: yellow;
+    border-radius: 5px;
+    padding: 10px;
     text-decoration: none;
-    color: black;
+    
     
  }
- .informaçoes li{
-    margin-bottom: 15px;
-    font-size:medium;
- }
+
